@@ -13,3 +13,4 @@ pysr==0.16.3
 xgboost==1.7.5
 zstd
 tensorflow-model-optimization==0.8.0
+qkeras
